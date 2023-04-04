@@ -16,6 +16,12 @@
     <color name="dark_green">#00486e</color>
     <color name="light_green">#007f94</color>
 
-
+    <color name="green_noise">#75b975</color>
+    
+    
+    <color name="bottom_nav_backgr">#FEDBD0</color>
+    <color name="bottom_nav_item">#8C706D</color>
+    <color name="bottom_nav_select_item">#220006</color>
+    <color name="fragment_bg_color">#FDF8F4</color>
 
 </resources>

@@ -47,6 +47,8 @@ dependencies {
     // Material Design
     implementation 'com.google.android.material:material:1.3.0-alpha03'
 
+    //profile
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
 
     def nav_version = "2.5.3"
 

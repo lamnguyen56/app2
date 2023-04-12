@@ -25,4 +25,13 @@
     <color name="bottom_nav_select_item">#220006</color>
     <color name="fragment_bg_color">#FDF8F4</color>
 
+
+    <color name="colorPrimary">#2BCC6F</color>
+    <color name="colorPirmaryDark">#2BCC6F</color>
+    <color name="colorAccent">#333333</color>
+    <color name="colorPrimaryLight">#E9F8F1</color>
+    <color name="colorTrendingStart">#00B09B</color>
+    <color name="colorTrendingEnd">#96C93D</color>
+    <color name="colorDriver">#D6D6D6</color>
+
 </resources>

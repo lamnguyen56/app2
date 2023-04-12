@@ -36,6 +36,8 @@ class signUpActivity : AppCompatActivity() {
         }
         listenerSuccessEvent()
         listenerErrorEvent()
+
+
     }
     private fun listenerSuccessEvent() {
         viewModel.isSuccessEvent.observe(this) { isSuccess ->
